@@ -1,6 +1,6 @@
 # market-solution
 
-**integrantes**
+**integrantes:\n**
 vinicius augusto moreira costa - RA: 1222011688,  Daniel Augusto Eller - RA: 123221280
 
 **Tecnologias utilizadas**
