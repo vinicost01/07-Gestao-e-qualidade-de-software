@@ -1,4 +1,4 @@
-FROM openjdk:19-jre-slim
+FROM openjdk:22
 WORKDIR /home
 COPY /target/market-solution.jar market-solution.jar
 EXPOSE 8080
